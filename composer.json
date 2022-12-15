@@ -1,0 +1,15 @@
+{
+    "name": "Vocab",
+    "description": "Collaborate on your vocab decks and learn better",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Philip Maus"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
